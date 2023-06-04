@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './Todo.css'
+import './todo.css'
 
 
 let itemId = 0;
